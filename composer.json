@@ -1,5 +1,5 @@
 {
-    "name": "navrotskii/packtest",
+    "name": "andriinavrotskii/packtest",
     "description": "Test package",
     "type": "library",
     "require": {
